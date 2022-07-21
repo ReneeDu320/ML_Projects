@@ -4,4 +4,4 @@
 
 ### credit_card_fraud-analysis
 
-randomforestregressor, binning, correlation analysis(heatmap)
+randomforestregressor, binning
